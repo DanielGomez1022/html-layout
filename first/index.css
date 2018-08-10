@@ -1,0 +1,26 @@
+.header{
+background:rgb(48, 47, 47);
+height:100px;
+}
+ 
+.main{
+background:lightgrey;
+height:535px;
+}
+
+footer{
+    background: lightgrey;
+}
+.footer{
+background:black;
+height:60px;
+width:850px;
+margin: auto;
+}
+
+.container{
+background:white;
+margin: 0 auto;
+width: 850px;
+height:100%
+}

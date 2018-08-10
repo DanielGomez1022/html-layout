@@ -1,0 +1,72 @@
+.top {
+    margin: 10px;
+    height: 150px;
+    background:white;
+    border: 5px solid black;
+}
+
+.rectangle {
+    display:inline-block;
+    background:purple;
+    height:75px;
+    width:25px;
+    margin-left:20px;
+    margin-top:50px;
+}
+
+.square {
+    display:inline-block;
+    background:green;
+    height:125px;
+    width:250px;
+    margin-top:10px;
+    margin-left:50px;
+}
+
+.circle{
+    display:inline-block;
+    background:lightblue;
+    height:125px;
+    width:125px;
+    border-radius: 125px;
+    margin-left:100px;
+    margin-top:11px;
+}
+
+.container{
+    margin-top: 25px;
+    height: 150px;
+    background:white;
+    border:5px dotted black;
+    padding: 20px;
+}
+
+.rectangle2{
+    background:lemonchiffon;
+    height:100px;
+    margin:auto;
+    padding:25px;
+    -webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+     box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+}
+
+.container2{
+    background:white;
+    border: 1px solid grey;
+    height:150px;
+    width:500px;
+    margin: 25px auto;
+    padding:20px;
+    -webkit-box-shadow: 3px 3px 5px 0px rgba(0,0,0,0.25);
+    -moz-box-shadow: 3px 3px 5px 0px rgba(0,0,0,0.25);
+    box-shadow: 3px 3px 5px 0px rgba(0,0,0,0.25);
+}
+
+.hello-friends {
+    position: absolute; 
+    font-size: 50px; 
+     color:red;
+     width:50px;
+     margin-left:160px;
+}
